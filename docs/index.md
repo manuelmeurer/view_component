@@ -293,6 +293,7 @@ ViewComponent is built by over a hundred members of the community, including:
 * [Startup Jobs](https://startup.jobs/)
 * [Teamtailor](https://teamtailor.com/)
 * [Topkey](https://topkey.io/)
+* [Uplink](https://uplink.tech/)
 * [Web3 Jobs](https://web3.career)
 * [Wecasa](https://www.wecasa.fr/)
 * [WIP](https://wip.co/)
